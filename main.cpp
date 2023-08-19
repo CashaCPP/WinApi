@@ -19,7 +19,7 @@ int main()
 
     Reg_Fail.close();
 
-    std::cout << "\nCompleted";
+    std::cout << "\nCompleted\n";
 
     return 0;
 }
